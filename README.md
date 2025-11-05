@@ -1,3 +1,8 @@
+# 声明
+forked from Ziqi-Yang/birthday_gift
+#For Liu Xinyu
+
+
 # Birthday
 仅仅是手机端  
 演示(注意使用手机模式调试) [github pages](https://ziqi-yang.github.io/birthday_gift/)  
